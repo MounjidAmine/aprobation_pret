@@ -23,13 +23,13 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-depot.git
+git clone https://github.com/MounjidAmine/aprobation_pret.git
 ```
 
 Accédez au dossier du projet :
 
 ```bash
-cd nom-du-depot
+cd aprobation_pret
 ```
 
 ## Utilisation
